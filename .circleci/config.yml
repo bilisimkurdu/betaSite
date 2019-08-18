@@ -13,6 +13,6 @@ jobs:
      - run: |         
          docker login --username=web@cntrl.ml --password=b2443bcb-cba6-4577-aa16-0fe6ba24da4a registry.heroku.com
          docker tag aspnetapp registry.heroku.com/tkbktest/web
-         docker push registry.heroku.com/$HEROKU_APP_NAME/web                
+         docker push registry.heroku.com/tkbktest/web                
          curl https://cli-assets.heroku.com/install.sh | sh
          heroku container:release web -a tkbktest
