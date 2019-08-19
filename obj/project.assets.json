@@ -12084,11 +12084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yakupcontarli\\Documents\\GitHub\\betaSite\\betaSite.csproj",
-      "projectName": "betaSite",
-      "projectPath": "C:\\Users\\yakupcontarli\\Documents\\GitHub\\betaSite\\betaSite.csproj",
+      "projectUniqueName": "C:\\Users\\yakupcontarli\\Documents\\GitHub\\tkbktest\\tkbktest.csproj",
+      "projectName": "tkbktest",
+      "projectPath": "C:\\Users\\yakupcontarli\\Documents\\GitHub\\tkbktest\\tkbktest.csproj",
       "packagesPath": "C:\\Users\\yakupcontarli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yakupcontarli\\Documents\\GitHub\\betaSite\\obj\\",
+      "outputPath": "C:\\Users\\yakupcontarli\\Documents\\GitHub\\tkbktest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

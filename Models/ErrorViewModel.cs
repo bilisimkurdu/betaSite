@@ -1,6 +1,6 @@
 using System;
 
-namespace betaSite.Models
+namespace tkbktest.Models
 {
     public class ErrorViewModel
     {

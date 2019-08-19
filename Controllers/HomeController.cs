@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using betaSite.Models;
+using tkbktest.Models;
 
-namespace betaSite.Controllers
+namespace tkbktest.Controllers
 {
     public class HomeController : Controller
     {
